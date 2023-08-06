@@ -1,0 +1,3 @@
+[submodule "mboxtojson"]
+	path = mboxtojson
+	url = https://github.com/brysonian/mbox-to-json.git
